@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "packageName": "com.xr8.aion",
-  "versionCode": 21,
-  "versionName": "2.7",
-  "url": "https://github.com/Xlr8qwik/aion-apk-releases/releases/download/v2.7/aion-2.7.apk",
-  "size": 87132551,
-  "sha256": "7b2008af0cd242f9770d85f86274b47d6a97fcfbc859450712deb04bc4e99c34",
+  "versionCode": 22,
+  "versionName": "2.8",
+  "url": "https://github.com/Xlr8qwik/aion-apk-releases/releases/download/v2.8/aion-2.8.apk",
+  "size": 87133502,
+  "sha256": "5f15dfc47c8788dc61db97d5e4ec13dea9a6cd30181c4747440863beed024aa3",
   "signerSha256": "2ee0c7424588f49602bf5f5985dd56625000096864f2b9c36a86a7fe0346d062",
   "verification": "build-tested"
 }
